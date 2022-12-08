@@ -1,0 +1,209 @@
+,Title,Year,Rated,Runtime,Genre,Director,Metascore,imdbRating,imdbVotes,BoxOffice,Oscars
+0,The Shawshank Redemption,1994,R,142,Drama,Frank Darabont,81.0,9.3,2651602,28767189,7
+1,The Godfather,1972,R,175,"Crime, Drama",Francis Ford Coppola,100.0,9.2,1840332,136381073,3
+2,The Dark Knight,2008,PG-13,152,"Action, Crime, Drama",Christopher Nolan,84.0,9.0,2628154,534987076,2
+3,The Godfather Part II,1974,R,202,"Crime, Drama",Francis Ford Coppola,90.0,9.0,1260911,47834595,6
+5,Schindler's List,1993,R,195,"Biography, Drama, History",Steven Spielberg,94.0,9.0,1345151,96898818,7
+6,The Lord of the Rings: The Return of the King,2003,PG-13,201,"Action, Adventure, Drama",Peter Jackson,94.0,9.0,1830463,378251207,1
+7,Pulp Fiction,1994,R,154,"Crime, Drama",Quentin Tarantino,94.0,8.9,2032272,107928762,1
+8,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,"Action, Adventure, Drama",Peter Jackson,92.0,8.8,1858615,316115420,4
+9,"The Good, the Bad and the Ugly",1966,R,178,"Adventure, Western",Sergio Leone,90.0,8.8,757235,25100000,3
+10,Forrest Gump,1994,PG-13,142,"Drama, Romance",Robert Zemeckis,82.0,8.8,2057623,330455270,6
+11,Fight Club,1999,R,139,Drama,David Fincher,66.0,8.8,2096810,37030102,1
+12,The Lord of the Rings: The Two Towers,2002,PG-13,179,"Action, Adventure, Drama",Peter Jackson,87.0,8.8,1653467,342952511,2
+13,Inception,2010,PG-13,148,"Action, Adventure, Sci-Fi",Christopher Nolan,74.0,8.8,2328647,292587330,4
+14,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,"Action, Adventure, Fantasy",Irvin Kershner,82.0,8.7,1282704,292753960,1
+15,The Matrix,1999,R,136,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski",73.0,8.7,1895851,172076928,4
+16,Goodfellas,1990,R,145,"Biography, Crime, Drama",Martin Scorsese,90.0,8.7,1150408,46909721,1
+17,One Flew Over the Cuckoo's Nest,1975,R,133,Drama,Milos Forman,84.0,8.7,1001158,108981275,5
+18,Se7en,1995,R,127,"Crime, Drama, Mystery",David Fincher,65.0,8.6,1632970,100125643,1
+19,Seven Samurai,1954,Not Rated,207,"Action, Drama",Akira Kurosawa,98.0,8.6,344921,318649,2
+20,It's a Wonderful Life,1946,PG,130,"Drama, Family, Fantasy",Frank Capra,89.0,8.6,453314,44000,5
+21,The Silence of the Lambs,1991,R,118,"Crime, Drama, Thriller",Jonathan Demme,85.0,8.6,1420630,130742922,5
+22,City of God,2002,R,130,"Crime, Drama","Fernando Meirelles, Kátia Lund",79.0,8.6,753353,7564459,4
+23,Saving Private Ryan,1998,R,169,"Drama, War",Steven Spielberg,91.0,8.6,1379989,217049603,5
+24,Life Is Beautiful,1997,PG-13,116,"Comedy, Drama, Romance",Roberto Benigni,59.0,8.6,689817,57563264,3
+25,Interstellar,2014,PG-13,169,"Adventure, Drama, Sci-Fi",Christopher Nolan,74.0,8.6,1799869,188020017,1
+26,The Green Mile,1999,R,189,"Crime, Drama, Fantasy",Frank Darabont,61.0,8.6,1290182,136801374,4
+27,Star Wars: Episode IV - A New Hope,1977,PG,121,"Action, Adventure, Fantasy",George Lucas,90.0,8.6,1354922,460998507,6
+28,Terminator 2: Judgment Day,1991,R,137,"Action, Sci-Fi",James Cameron,75.0,8.6,1091509,205881154,4
+29,Back to the Future,1985,PG,116,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,87.0,8.5,1193399,212836762,1
+30,Spirited Away,2001,PG,125,"Animation, Adventure, Family",Hayao Miyazaki,96.0,8.6,755788,13750644,1
+31,Psycho,1960,R,109,"Horror, Mystery, Thriller",Alfred Hitchcock,97.0,8.5,668195,32000000,4
+32,The Pianist,2002,R,150,"Biography, Drama, Music",Roman Polanski,85.0,8.5,824312,32572577,3
+33,Parasite,2019,R,132,"Drama, Thriller",Bong Joon Ho,96.0,8.5,785422,53369749,4
+34,Léon: The Professional,1994,R,110,"Action, Crime, Drama",Luc Besson,64.0,8.5,1152725,19501238,6
+35,The Lion King,1994,G,88,"Animation, Adventure, Drama","Roger Allers, Rob Minkoff",88.0,8.5,1048618,422783777,2
+36,Gladiator,2000,R,155,"Action, Adventure, Drama",Ridley Scott,67.0,8.5,1488216,187705427,5
+37,American History X,1998,R,119,"Crime, Drama",Tony Kaye,62.0,8.5,1115088,6719864,1
+38,The Departed,2006,R,151,"Crime, Drama, Thriller",Martin Scorsese,85.0,8.5,1313850,132399394,4
+39,The Usual Suspects,1995,R,106,"Crime, Drama, Mystery",Bryan Singer,77.0,8.5,1079529,23341568,2
+40,The Prestige,2006,PG-13,130,"Drama, Mystery, Sci-Fi",Christopher Nolan,66.0,8.5,1321386,53089891,2
+41,Whiplash,2014,R,106,"Drama, Music",Damien Chazelle,88.0,8.5,848198,13092000,3
+42,Casablanca,1942,PG,102,"Drama, Romance, War",Michael Curtiz,100.0,8.5,568875,4219709,3
+44,The Intouchables,2011,R,112,"Biography, Comedy, Drama","Olivier Nakache, Éric Toledano",57.0,8.5,851652,10198820,1
+45,Grave of the Fireflies,1988,Not Rated,89,"Animation, Drama, War",Isao Takahata,94.0,8.5,275152,516962,3
+46,Modern Times,1936,G,87,"Comedy, Drama, Romance",Charles Chaplin,96.0,8.5,242098,163577,4
+47,Once Upon a Time in the West,1968,PG-13,165,Western,Sergio Leone,80.0,8.5,328568,5321508,5
+48,Rear Window,1954,PG,112,"Mystery, Thriller",Alfred Hitchcock,100.0,8.5,489331,36764313,4
+49,Alien,1979,R,117,"Horror, Sci-Fi",Ridley Scott,89.0,8.5,876870,81900459,1
+50,City Lights,1931,G,87,"Comedy, Drama, Romance",Charles Chaplin,99.0,8.5,184488,19181,4
+51,Cinema Paradiso,1988,PG,155,"Drama, Romance",Giuseppe Tornatore,80.0,8.5,260000,12397210,1
+52,Apocalypse Now,1979,R,147,"Drama, Mystery, War",Francis Ford Coppola,94.0,8.5,664230,96041782,2
+53,Memento,2000,R,113,"Mystery, Thriller",Christopher Nolan,80.0,8.4,1230458,25544867,2
+54,Indiana Jones and the Raiders of the Lost Ark,1981,PG,115,"Action, Adventure",Steven Spielberg,85.0,8.4,960537,248159971,4
+55,Django Unchained,2012,R,165,"Drama, Western",Quentin Tarantino,81.0,8.4,1537606,162805434,2
+56,WALL·E,2008,G,98,"Animation, Adventure, Family",Andrew Stanton,95.0,8.4,1108697,223808164,1
+57,The Lives of Others,2006,R,137,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,89.0,8.4,389133,11286112,1
+61,The Shining,1980,R,146,"Drama, Horror",Stanley Kubrick,66.0,8.4,1010993,45634352,4
+62,Avengers: Infinity War,2018,PG-13,149,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",68.0,8.4,1065559,678815482,1
+64,Aliens,1986,R,137,"Action, Adventure, Sci-Fi",James Cameron,84.0,8.4,714258,85160248,2
+65,Spider-Man: Into the Spider-Verse,2018,PG,117,"Animation, Action, Adventure","Bob Persichetti, Peter Ramsey, Rodney Rothman",87.0,8.4,521336,190241310,1
+66,American Beauty,1999,R,122,Drama,Sam Mendes,84.0,8.4,1149703,130096601,5
+67,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,"Comedy, War",Stanley Kubrick,97.0,8.4,489572,9440272,4
+68,The Dark Knight Rises,2012,PG-13,164,"Action, Drama",Christopher Nolan,78.0,8.4,1689672,448149584,1
+69,Oldboy,2003,R,120,"Action, Drama, Mystery",Park Chan-wook,77.0,8.4,575801,707481,4
+70,Joker,2019,R,122,"Crime, Drama, Thriller",Todd Phillips,59.0,8.4,1253452,335477657,2
+71,Amadeus,1984,PG,160,"Biography, Drama, Music",Milos Forman,88.0,8.4,400269,51973029,8
+72,Inglourious Basterds,2009,R,153,"Adventure, Drama, War",Quentin Tarantino,69.0,8.3,1434222,120540719,1
+73,Coco,2017,PG,105,"Animation, Adventure, Comedy","Lee Unkrich, Adrian Molina",81.0,8.4,500294,210460015,2
+74,Toy Story,1995,G,81,"Animation, Adventure, Comedy",John Lasseter,95.0,8.3,987287,223225679,3
+75,Braveheart,1995,R,178,"Biography, Drama, History",Mel Gibson,68.0,8.4,1033165,75609945,5
+76,The Boat,1981,R,149,"Drama, War",Wolfgang Petersen,86.0,8.4,250761,11487676,6
+77,Avengers: Endgame,2019,PG-13,181,"Action, Adventure, Drama","Anthony Russo, Joe Russo",78.0,8.4,1112060,858373000,1
+78,Princess Mononoke,1997,PG-13,134,"Animation, Action, Adventure",Hayao Miyazaki,76.0,8.4,392039,4845631,1
+79,Once Upon a Time in America,1984,R,229,"Crime, Drama",Sergio Leone,75.0,8.3,351036,5321508,2
+80,Top Gun: Maverick,2022,PG-13,130,"Action, Drama",Joseph Kosinski,78.0,8.4,412557,716498761,2
+81,Good Will Hunting,1997,R,126,"Drama, Romance",Gus Van Sant,70.0,8.3,960059,138433435,2
+82,Your Name.,2016,TV-PG,106,"Animation, Drama, Fantasy",Makoto Shinkai,79.0,8.4,264308,5017246,1
+83,Requiem for a Dream,2000,Unrated,102,Drama,Darren Aronofsky,68.0,8.3,837601,3635482,1
+84,Toy Story 3,2010,G,103,"Animation, Adventure, Comedy",Lee Unkrich,92.0,8.3,831768,415004880,2
+85,Singin' in the Rain,1952,G,103,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly",99.0,8.3,241825,1884537,2
+86,3 Idiots,2009,PG-13,170,"Comedy, Drama",Rajkumar Hirani,67.0,8.4,398641,6532874,6
+87,High and Low,1963,Not Rated,143,"Crime, Drama, Mystery",Akira Kurosawa,90.0,8.4,44977,46808,3
+88,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,"Action, Adventure, Fantasy",Richard Marquand,58.0,8.3,1047331,309306177,4
+89,Capernaum,2018,R,126,Drama,Nadine Labaki,75.0,8.4,88915,1661096,1
+90,Eternal Sunshine of the Spotless Mind,2004,R,108,"Drama, Romance, Sci-Fi",Michel Gondry,89.0,8.3,1000134,34400301,1
+91,2001: A Space Odyssey,1968,G,149,"Adventure, Sci-Fi",Stanley Kubrick,84.0,8.3,665486,60481243,1
+92,Reservoir Dogs,1992,R,99,"Crime, Thriller",Quentin Tarantino,79.0,8.3,1011402,2832029,1
+93,The Hunt,2012,R,115,Drama,Thomas Vinterberg,77.0,8.3,328964,613308,1
+94,Citizen Kane,1941,PG,119,"Drama, Mystery",Orson Welles,100.0,8.3,441230,1627530,1
+97,Lawrence of Arabia,1962,Approved,218,"Adventure, Biography, Drama",David Lean,100.0,8.3,293059,45306425,7
+98,North by Northwest,1959,Approved,136,"Action, Adventure, Mystery",Alfred Hitchcock,98.0,8.3,327601,66728,3
+99,Vertigo,1958,PG,128,"Mystery, Romance, Thriller",Alfred Hitchcock,100.0,8.3,400985,7705225,2
+100,Amélie,2001,R,122,"Comedy, Romance",Jean-Pierre Jeunet,69.0,8.3,754258,33225499,5
+101,A Clockwork Orange,1971,X,136,"Crime, Sci-Fi",Stanley Kubrick,77.0,8.3,825737,26617553,4
+102,The Apartment,1960,Approved,125,"Comedy, Drama, Romance",Billy Wilder,94.0,8.3,181609,18600000,5
+104,Ikiru,1952,Not Rated,143,Drama,Akira Kurosawa,91.0,8.3,78503,60239,1
+105,Full Metal Jacket,1987,R,116,"Drama, War",Stanley Kubrick,76.0,8.3,739486,46357676,1
+107,Scarface,1983,R,170,"Crime, Drama",Brian De Palma,65.0,8.3,833340,45408703,8
+108,The Sting,1973,PG,129,"Comedy, Crime, Drama",George Roy Hill,83.0,8.3,261757,156000000,7
+109,To Kill a Mockingbird,1962,Approved,129,"Crime, Drama",Robert Mulligan,88.0,8.3,316040,592237,3
+110,Incendies,2010,R,131,"Drama, Mystery",Denis Villeneuve,80.0,8.3,177365,2071334,1
+111,Up,2009,PG,96,"Animation, Adventure, Comedy","Pete Docter, Bob Peterson",88.0,8.3,1036008,293004164,2
+112,Heat,1995,R,170,"Action, Crime, Drama",Michael Mann,76.0,8.3,651629,67436818,1
+113,Taxi Driver,1976,R,114,"Crime, Drama",Martin Scorsese,94.0,8.2,824568,28262574,4
+114,A Separation,2011,PG-13,123,Drama,Asghar Farhadi,95.0,8.3,244955,7099055,1
+115,Metropolis,1927,Not Rated,153,"Drama, Sci-Fi",Fritz Lang,98.0,8.3,174262,1236166,6
+116,L.A. Confidential,1997,R,138,"Crime, Drama, Mystery",Curtis Hanson,90.0,8.2,582085,64616940,2
+117,Snatch,2000,R,102,"Comedy, Crime",Guy Ritchie,55.0,8.2,852259,30328156,4
+118,Die Hard,1988,R,132,"Action, Thriller",John McTiernan,72.0,8.2,871995,83844093,4
+120,Indiana Jones and the Last Crusade,1989,PG-13,127,"Action, Adventure",Steven Spielberg,65.0,8.2,751306,197171806,1
+121,1917,2019,R,119,"Action, Drama, War",Sam Mendes,78.0,8.2,579698,159227644,3
+123,Downfall,2004,R,156,"Biography, Drama, History",Oliver Hirschbiegel,82.0,8.2,355577,5509040,1
+124,For a Few Dollars More,1965,R,132,Western,Sergio Leone,74.0,8.2,256224,15000000,2
+126,Batman Begins,2005,PG-13,140,"Action, Crime, Drama",Christopher Nolan,70.0,8.2,1458039,206863479,1
+129,The Father,2020,PG-13,97,"Drama, Mystery",Florian Zeller,88.0,8.2,150790,2122771,2
+130,All About Eve,1950,Passed,138,Drama,Joseph L. Mankiewicz,98.0,8.2,131701,63463,6
+131,Green Book,2018,PG-13,130,"Biography, Comedy, Drama",Peter Farrelly,69.0,8.2,485470,85080171,3
+132,The Wolf of Wall Street,2013,R,180,"Biography, Comedy, Crime",Martin Scorsese,75.0,8.2,1390573,116900694,5
+134,Ran,1985,R,162,"Action, Drama, War",Akira Kurosawa,96.0,8.2,125703,4135750,1
+135,Casino,1995,R,178,"Crime, Drama",Martin Scorsese,73.0,8.2,517832,42512375,1
+136,Pan's Labyrinth,2006,R,118,"Drama, Fantasy, War",Guillermo del Toro,98.0,8.2,666055,37646380,3
+137,Unforgiven,1992,R,130,"Drama, Western",Clint Eastwood,85.0,8.2,410962,101167799,4
+138,There Will Be Blood,2007,R,158,Drama,Paul Thomas Anderson,93.0,8.2,584473,40222514,2
+139,The Truman Show,1998,PG,103,"Comedy, Drama",Peter Weir,90.0,8.2,1070348,125618201,3
+140,The Sixth Sense,1999,PG-13,107,"Drama, Mystery, Thriller",M. Night Shyamalan,64.0,8.2,987624,293506292,6
+141,A Beautiful Mind,2001,PG-13,135,"Biography, Drama",Ron Howard,72.0,8.2,929009,170742341,4
+142,Spider-Man: No Way Home,2021,PG-13,148,"Action, Adventure, Fantasy",Jon Watts,71.0,8.3,739216,814115070,1
+143,Yojimbo,1961,Not Rated,110,"Action, Drama, Thriller",Akira Kurosawa,93.0,8.2,123042,46808,1
+144,Monty Python and the Holy Grail,1975,PG,91,"Adventure, Comedy, Fantasy","Terry Gilliam, Terry Jones",91.0,8.2,540461,1827696,3
+145,Shutter Island,2010,R,138,"Mystery, Thriller",Martin Scorsese,63.0,8.2,1296650,128012934,1
+146,The Treasure of the Sierra Madre,1948,Passed,126,"Adventure, Drama, Western",John Huston,98.0,8.2,125144,5014000,3
+147,Jurassic Park,1993,PG-13,127,"Action, Adventure, Sci-Fi",Steven Spielberg,68.0,8.2,982586,404214720,3
+148,Rashomon,1950,Not Rated,88,"Crime, Drama, Mystery",Akira Kurosawa,98.0,8.2,168826,46808,1
+150,Kill Bill: Vol. 1,2003,R,111,"Action, Crime, Drama",Quentin Tarantino,69.0,8.2,1106684,70099045,5
+151,No Country for Old Men,2007,R,122,"Crime, Drama, Thriller","Ethan Coen, Joel Coen",92.0,8.2,965262,74283625,4
+152,Finding Nemo,2003,G,100,"Animation, Adventure, Comedy","Andrew Stanton, Lee Unkrich",90.0,8.2,1038001,380843261,1
+153,The Thing,1982,R,109,"Horror, Mystery, Sci-Fi",John Carpenter,57.0,8.2,423800,19629760,3
+154,The Elephant Man,1980,PG,124,"Biography, Drama",David Lynch,78.0,8.2,241163,26010864,8
+155,Chinatown,1974,R,130,"Drama, Mystery, Thriller",Roman Polanski,92.0,8.2,326247,29200000,1
+156,Raging Bull,1980,R,129,"Biography, Drama, Sport",Martin Scorsese,89.0,8.2,353015,23383987,2
+157,V for Vendetta,2005,R,132,"Action, Drama, Sci-Fi",James McTeigue,62.0,8.2,1115550,70511035,7
+158,Gone with the Wind,1939,Passed,238,"Drama, Romance, War","Victor Fleming, George Cukor, Sam Wood",97.0,8.2,315348,200882193,8
+159,Inside Out,2015,PG,95,"Animation, Adventure, Comedy","Pete Docter, Ronnie Del Carmen",94.0,8.2,708453,356921711,1
+160,"Lock, Stock and Two Smoking Barrels",1998,R,107,"Action, Comedy, Crime",Guy Ritchie,66.0,8.2,580787,3753929,1
+161,Dial M for Murder,1954,PG,105,"Crime, Thriller",Alfred Hitchcock,75.0,8.2,176066,24845,1
+162,The Secret in Their Eyes,2009,R,129,"Drama, Mystery, Romance",Juan José Campanella,80.0,8.2,209783,6391436,1
+163,Howl's Moving Castle,2004,PG,119,"Animation, Adventure, Family",Hayao Miyazaki,80.0,8.2,392933,6789268,1
+164,The Bridge on the River Kwai,1957,PG,161,"Adventure, Drama, War",David Lean,87.0,8.2,220575,27200000,7
+165,"Three Billboards Outside Ebbing, Missouri",2017,R,115,"Comedy, Crime, Drama",Martin McDonagh,88.0,8.1,503987,54513740,2
+166,Trainspotting,1996,R,93,Drama,Danny Boyle,83.0,8.1,685145,16491080,1
+167,Warrior,2011,PG-13,140,"Action, Drama, Sport",Gavin O'Connor,71.0,8.2,471707,13657115,1
+168,Gran Torino,2008,R,116,Drama,Clint Eastwood,72.0,8.1,773675,148095302,2
+169,Fargo,1996,R,98,"Crime, Thriller","Joel Coen, Ethan Coen",85.0,8.1,675595,24611975,2
+170,Prisoners,2013,R,153,"Crime, Drama, Mystery",Denis Villeneuve,70.0,8.1,704784,61002302,1
+171,My Neighbor Totoro,1988,G,86,"Animation, Comedy, Family",Hayao Miyazaki,86.0,8.1,337571,2250213,5
+172,Million Dollar Baby,2004,PG-13,132,"Drama, Sport",Clint Eastwood,86.0,8.1,685142,100492203,4
+173,Catch Me If You Can,2002,PG-13,141,"Biography, Crime, Drama",Steven Spielberg,75.0,8.1,973233,164615351,2
+174,Children of Heaven,1997,PG,89,"Drama, Family, Sport",Majid Majidi,77.0,8.2,75021,933933,1
+176,Blade Runner,1982,R,117,"Action, Drama, Sci-Fi",Ridley Scott,84.0,8.1,765432,32914489,2
+178,Before Sunrise,1995,R,101,"Drama, Romance",Richard Linklater,77.0,8.1,307230,5535405,1
+179,12 Years a Slave,2013,R,134,"Biography, Drama, History",Steve McQueen,96.0,8.1,698308,56671993,3
+180,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,"Adventure, Family, Fantasy",David Yates,85.0,8.1,868986,381447587,3
+181,Ben-Hur,1959,G,212,"Adventure, Drama",William Wyler,90.0,8.1,239468,74432704,1
+183,The Third Man,1949,Approved,93,"Film-Noir, Mystery, Thriller",Carol Reed,97.0,8.1,171990,1067364,1
+184,Gone Girl,2014,R,149,"Drama, Mystery, Thriller",David Fincher,79.0,8.1,975926,167767189,1
+186,The Grand Budapest Hotel,2014,R,99,"Adventure, Comedy, Crime",Wes Anderson,88.0,8.1,803421,59301324,4
+187,The Deer Hunter,1978,R,183,"Drama, War",Michael Cimino,86.0,8.1,338711,48979328,5
+188,In the Name of the Father,1993,R,133,"Biography, Crime, Drama",Jim Sheridan,84.0,8.1,174997,25096862,7
+192,Hacksaw Ridge,2016,R,139,"Biography, Drama, History",Mel Gibson,71.0,8.1,521692,67209615,2
+193,Mr. Smith Goes to Washington,1939,Passed,129,"Comedy, Drama",Frank Capra,73.0,8.1,115964,144738,1
+195,Memories of Murder,2003,Not Rated,132,"Crime, Drama, Mystery",Bong Joon Ho,82.0,8.1,182957,15357,3
+196,Wild Tales,2014,R,122,"Comedy, Drama, Thriller",Damián Szifron,77.0,8.1,198206,3106530,1
+198,Room,2015,R,118,"Drama, Thriller",Lenny Abrahamson,86.0,8.1,418805,14677654,1
+199,Mad Max: Fury Road,2015,R,120,"Action, Adventure, Sci-Fi",George Miller,90.0,8.1,994785,154109060,6
+201,How to Train Your Dragon,2010,PG,98,"Animation, Action, Adventure","Dean DeBlois, Chris Sanders",75.0,8.1,736491,217581231,2
+202,The Big Lebowski,1998,R,117,"Comedy, Crime","Joel Coen, Ethan Coen",71.0,8.1,804097,18254458,5
+203,"Monsters, Inc.",2001,G,92,"Animation, Adventure, Comedy","Pete Docter, David Silverman, Lee Unkrich",79.0,8.1,902622,290642256,1
+204,Jaws,1975,PG,124,"Adventure, Thriller",Steven Spielberg,87.0,8.1,603393,265859065,3
+205,Dead Poets Society,1989,PG,128,"Comedy, Drama",Peter Weir,79.0,8.1,487678,95860116,1
+208,Hotel Rwanda,2004,PG-13,121,"Biography, Drama, History",Terry George,79.0,8.1,355332,23530892,3
+209,Ford v Ferrari,2019,PG-13,152,"Action, Biography, Drama",James Mangold,81.0,8.1,388126,117624357,2
+210,Rocky,1976,PG,120,"Drama, Sport",John G. Avildsen,70.0,8.1,572384,117235147,3
+211,Platoon,1986,R,120,"Drama, War",Oliver Stone,92.0,8.1,413695,138530565,4
+212,Stand by Me,1986,R,89,"Adventure, Drama",Rob Reiner,75.0,8.1,402816,52287414,1
+213,The Terminator,1984,R,107,"Action, Sci-Fi",James Cameron,84.0,8.1,860804,38371200,8
+214,Spotlight,2015,R,129,"Biography, Crime, Drama",Tom McCarthy,93.0,8.1,467884,45055776,2
+216,Logan,2017,R,137,"Action, Drama, Sci-Fi",James Mangold,77.0,8.1,757024,226277068,1
+217,Ratatouille,2007,G,111,"Animation, Adventure, Comedy","Brad Bird, Jan Pinkava",96.0,8.1,730168,206445654,1
+218,Rush,2013,R,123,"Action, Biography, Drama",Ron Howard,74.0,8.1,478594,26947624,1
+219,Network,1976,R,121,Drama,Sidney Lumet,83.0,8.1,160019,23689877,4
+220,Into the Wild,2007,R,148,"Adventure, Biography, Drama",Sean Penn,73.0,8.1,621173,18354356,2
+221,The Wizard of Oz,1939,G,102,"Adventure, Family, Fantasy","Victor Fleming, George Cukor, Mervyn LeRoy",92.0,8.1,398263,24668669,2
+222,Before Sunset,2004,R,80,"Drama, Romance",Richard Linklater,90.0,8.1,263517,5820649,1
+223,Groundhog Day,1993,PG,101,"Comedy, Drama, Fantasy",Harold Ramis,72.0,8.1,628657,71107962,1
+224,The Exorcist,1973,R,122,Horror,William Friedkin,81.0,8.1,404301,233005644,2
+225,The Best Years of Our Lives,1946,Approved,170,"Drama, Romance, War",William Wyler,93.0,8.1,64876,23650000,7
+226,The Incredibles,2004,PG,115,"Animation, Action, Adventure",Brad Bird,90.0,8.0,732743,261441092,2
+228,The Battle of Algiers,1966,Not Rated,121,"Drama, War",Gillo Pontecorvo,96.0,8.1,60534,879794,3
+229,Everything Everywhere All at Once,2022,R,139,"Action, Adventure, Comedy","Dan Kwan, Daniel Scheinert",81.0,8.1,235962,70008593,1
+230,To Be or Not to Be,1942,Passed,99,"Comedy, Romance, War",Ernst Lubitsch,86.0,8.2,37635,3270000,1
+232,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,"Action, Adventure, Fantasy",Gore Verbinski,63.0,8.1,1121669,305413918,5
+234,Amores perros,2000,R,154,"Drama, Thriller",Alejandro G. Iñárritu,83.0,8.1,240473,5408467,1
+240,The Handmaiden,2016,Not Rated,145,"Drama, Romance, Thriller",Park Chan-wook,84.0,8.1,146547,2006788,1
+242,The Sound of Music,1965,G,172,"Biography, Drama, Family",Robert Wise,63.0,8.1,233559,159287539,5
+246,Aladdin,1992,G,90,"Animation, Adventure, Comedy","Ron Clements, John Musker",86.0,8.0,417939,217350219,2
+247,The Help,2011,PG-13,146,Drama,Tate Taylor,62.0,8.1,458386,169708112,1
+248,Gandhi,1982,PG,191,"Biography, Drama",Richard Attenborough,79.0,8.1,231604,52767889,8
+249,The Iron Giant,1999,PG,86,"Animation, Action, Adventure",Brad Bird,85.0,8.1,196293,23315035,1
